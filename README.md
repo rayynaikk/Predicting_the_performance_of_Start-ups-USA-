@@ -21,6 +21,7 @@ Following are the variables present in the dataset along with their description.
 
 
 S. No. Variables Type Description
+
 1 state_code Chr Shows the state codes
 2 latitude Num Shows the latitude for geographical location
 3 longitude Num Shows the longitude for geographical location
